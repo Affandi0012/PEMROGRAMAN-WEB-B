@@ -1,0 +1,21 @@
+img {
+    width: 400px;
+    height: 500px;
+    padding-top: 0px;
+}
+p2{
+    color : BLUE;
+    font-family : Arial;
+    background: white;
+    padding-bottom : 10px;
+}
+   
+   footer p {
+    color: rgb(74, 243, 7);
+    padding-right : 20px
+   }
+   body {
+    background-image: url("Universitas.jfif");
+    background-repeat: no-repeat;
+    background-size:cover
+ }
